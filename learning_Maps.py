@@ -1,2 +1,0 @@
-class learning_map():
-    
