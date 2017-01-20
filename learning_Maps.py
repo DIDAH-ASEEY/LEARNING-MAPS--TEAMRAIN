@@ -1,0 +1,2 @@
+class learning_map():
+    
